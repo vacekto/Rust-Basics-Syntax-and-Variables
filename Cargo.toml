@@ -1,7 +1,8 @@
 [package]
-name = "homework2"
+name = "rust_basics"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 slug = "0.1.4"
+csv = "1.3.1"
